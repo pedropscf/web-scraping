@@ -1,3 +1,8 @@
 2022-02-08 15:5735 - INFO - webscraping_hm - Starting webscraping at: https://www2.hm.com/en_us/men/products/jeans.html?sort=stock&image-size=small&image=model&offset=0&page-size=999
 2022-02-08 15:5740 - INFO - webscraping_hm - The page variable will contain the response from the HTML page, where 200 means it worked. The response is: <Response [200]>
 2022-02-08 15:5740 - INFO - webscraping_hm - Data collection done
+2022-02-08 16:1336 - INFO - webscraping_hm - Data collection by product done
+2022-02-08 16:1336 - INFO - webscraping_hm - Before cleaning, the dataset has the dimensions of: (938, 11), with 188 unique products
+2022-02-08 16:1336 - INFO - webscraping_hm - The dimensions of the data frame after cleaning is: (188, 15)
+2022-02-08 16:1336 - INFO - webscraping_hm - Data cleaning done
+2022-02-08 16:1336 - INFO - webscraping_hm - Data insertion done
